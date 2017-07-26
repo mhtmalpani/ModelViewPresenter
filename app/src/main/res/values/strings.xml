@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPwithPlugins</string>
+    <string name="insert_note">Insert Note!</string>
+</resources>
